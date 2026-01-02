@@ -1,0 +1,7 @@
+Trip Details
+From: *#HKN
+To: *##AYMD
+Departure: D(2025-10-13T12:30Z)
+Arrival: T12(2025-10-13T20:45+01:00)
+
+Your flight departs from #HAJ, and your destination is ##EDDW..
