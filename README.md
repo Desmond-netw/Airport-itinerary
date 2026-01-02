@@ -28,6 +28,7 @@ Cleans text whitespace
 ##  Usage
 
 ### CLI Arugments  to passed
+go run . ./PATH/INPUT.TXT  ./PATH/OUTPUT.TXT .AIRPORT-LOOKUP.CSV
 
 ```bash
  go run . ./input.txt  ./output.txt ./airport-lookup.csv 
