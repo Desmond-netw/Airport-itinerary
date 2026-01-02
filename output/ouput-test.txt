@@ -1,0 +1,7 @@
+Trip Details
+From: Los Angeles
+To: Helsinki
+Departure: 01 Jan 2025
+Arrival: 08:45PM (+01:00)
+
+Your flight departs from Los Angeles International Airport, and your destination is Helsinki Vantaa Airport..
