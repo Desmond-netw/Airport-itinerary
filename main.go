@@ -3,8 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"itinerary/utils"
 	"os"
+
+	"github.com/Desmond-netw/Airport-itinerary.git/utils"
 )
 
 // importing packages
